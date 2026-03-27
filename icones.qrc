@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icones/ajoutericone.png</file>
+        <file>icones/quittericone.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,102 @@
+{
+    "Contact": [
+        {
+            "dateC": "8/12/2023",
+            "dateM": "18/12/2023",
+            "email": "im@gmail.com",
+            "entreprise": "IKEA",
+            "idC": 19,
+            "nom": "choukri",
+            "photo": "/home1/ic115194/Musique/Ennaji_Wassim_Choukri_Imane/CDAA_jalon1_VF/depositphotos_671048078-stock-illustration-bussines-icon-people-black-color.webp",
+            "prenom": "imane",
+            "telephone": "0705589665"
+        },
+        {
+            "dateC": "17/12/2023",
+            "dateM": "17/12/2023",
+            "email": "test",
+            "entreprise": "test",
+            "idC": 37,
+            "nom": "test",
+            "photo": "/home1/ic115194/Musique/Ennaji_Wassim_Choukri_Imane/CDAA_jalon1_VF/depositphotos_671048078-stock-illustration-bussines-icon-people-black-color.webp",
+            "prenom": "test",
+            "telephone": "test"
+        }
+    ],
+    "Interaction": [
+        {
+            "contenu": "INTERA1",
+            "dateInteraction": "8/12/2023",
+            "idC": 19,
+            "idI": 10
+        },
+        {
+            "contenu": "INTERACTION2",
+            "dateInteraction": "11/12/2023",
+            "idC": 19,
+            "idI": 42
+        },
+        {
+            "contenu": "i1",
+            "dateInteraction": "17/12/2023",
+            "idC": 37,
+            "idI": 84
+        },
+        {
+            "contenu": "i2",
+            "dateInteraction": "17/12/2023",
+            "idC": 37,
+            "idI": 85
+        },
+        {
+            "contenu": "ng",
+            "dateInteraction": "17/12/2023",
+            "idC": 37,
+            "idI": 86
+        }
+    ],
+    "Todo": [
+        {
+            "dateTodo": "01/01/2024",
+            "idI": 42,
+            "idT": 36,
+            "tache": "TACHE1"
+        },
+        {
+            "dateTodo": "11/12/2023",
+            "idI": 42,
+            "idT": 37,
+            "tache": "TACHE2"
+        },
+        {
+            "dateTodo": "11/12/2024",
+            "idI": 42,
+            "idT": 38,
+            "tache": "TACHE3"
+        },
+        {
+            "dateTodo": "17/12/2023",
+            "idI": 84,
+            "idT": 77,
+            "tache": "t1"
+        },
+        {
+            "dateTodo": "17/12/2023",
+            "idI": 85,
+            "idT": 78,
+            "tache": "t1"
+        },
+        {
+            "dateTodo": "02/05/2005",
+            "idI": 85,
+            "idT": 79,
+            "tache": "t2"
+        },
+        {
+            "dateTodo": "17/12/2023",
+            "idI": 86,
+            "idT": 80,
+            "tache": "t"
+        }
+    ]
+}
